@@ -1,6 +1,6 @@
 ---
 date: 2019-07-22T22:44:38.000+00:00
-title: Song of Myself
+title: A Sweetheart
 author: Ralph Waldo Emerson
 hero_image: "/content/images/68465524_728242327588560_5142516690285756416_n.jpg"
 
